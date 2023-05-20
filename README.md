@@ -1,13 +1,15 @@
-<h1 align="center">👋 I'm Lizander Camilo del Sol</h1>
+<h1 align="center">👋 I'm Lizander Camilo</h1>
 <h3 align="center">- Software Engineer -</h3>
 
-- 🔭 I’m currently working on **DevOp**
+- 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently refreshing knowledge **frontend**
+- 🌱 I’m currently refreshing knowledge **Full-Stack**
 
 - 💬 Ask me about **react, Js, SCRUM**
 
 - 📫 How to reach me **lizander.kmilo@gmail.com**
+
+- 💼 Portfolio website https://lizander90.github.io
 
 - ⚡ Fun fact **CONST MOOD = 'funny'**
 
