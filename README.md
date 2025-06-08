@@ -1,11 +1,9 @@
 <h1 align="center">👋 I'm Lizander Camilo</h1>
 <h3 align="center">- Software Engineer -</h3>
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently on **Full-Stack**
 
-- 🌱 I’m currently refreshing knowledge **Full-Stack**
-
-- 💬 Ask me about **react, Js, SCRUM**
+- 💬 Ask me about **React, Js, NextJs, Blazzor **
 
 - 📫 How to reach me **lizander.kmilo@gmail.com**
 
